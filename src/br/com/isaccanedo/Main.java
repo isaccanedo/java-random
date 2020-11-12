@@ -2,6 +2,10 @@ package br.com.isaccanedo;
 
 import java.util.Random;
 
+/**
+ * @author Isac Canedo
+ */
+
 public class Main {
 
     static Random rand = new Random();
